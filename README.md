@@ -25,6 +25,7 @@
 ✦ Text to Video
 ✦ Video Editing
 ✦ Audio Editing
+✦ Effect Editing
 
 7. 繪本指南
 ✦ Logo 的使用
