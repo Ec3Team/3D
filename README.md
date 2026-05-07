@@ -1,25 +1,24 @@
 # 3D
-1. 發想
-✦ 主題：
+1. 發想主題
 
 2. 風格
-✦ 視覺風格：
-✦ 文字風格：
-✦ 音樂風格：
-✦ 動作風格：
+✦ 視覺風格
+✦ 文字風格
+✦ 音樂風格
+✦ 動作風格
 
 3. 元素
 ✦ Elements:重要角色、場景、元素
 
 4. 故事線
-✦ Set up：故事設定
-✦ Catalyst : 觸發
-✦ 1st turning point :第一轉折
-✦ Climax: 故事最高點
-✦ Final Confrontation : 面對衝突
-✦ Resolution : 結局
+✦ Set up故事設定
+✦ Catalyst觸發
+✦ 1st turning point第一轉折
+✦ Climax 故事最高點
+✦ Final Confrontation 面對衝突
+✦ Resolution 結局
 
-5. 剪接 (鏡頭語言）
+5. 剪接鏡頭語言
 ✦ Ai image
 ✦ Image to Video 
 ✦ Text to Video
