@@ -1,2 +1,47 @@
 • Creating a novel
 • Creating a movie clip from a novel
+
+1.發想主題：
+
+2. Visual Style 視覺風格 
+✦ 視覺風格 
+✦ 文字風格
+✦ 音樂風格
+✦ 動作風格
+
+3. 元素  Elements:
+✦角色設計
+✦場景設計
+✦物件設計
+✦特效設計
+✦動作設計
+
+4. 故事線 
+✦ Set up：故事設定 
+✦ Catalyst : 觸發 
+✦ 1st turning point :第一轉折 
+✦ Climax: 故事最高點 
+✦ Final Confrontation : 面對衝突 
+✦ Resolution : 結局
+
+5. 鏡頭剪接 
+✦ Ai image 
+✦ Image to Video 
+✦ Text to Video 
+✦ Video Editing 
+✦ Audio Editing 
+✦ Effect Editing
+
+6.故事指南 
+✦ Logo 的使用 
+✦ Story 故事大綱 
+✦ Color Palettes 色系 
+✦ Sounds 音樂音效 
+✦ Typography 字型排版 
+✦ Symbol Design 圖案設計 
+✦ UI /Layout Design 介面 
+✦ 市場資料
+
+7.微調定稿
+
+8.發行
