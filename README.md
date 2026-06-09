@@ -24,7 +24,7 @@
 • Final Confrontation : 面對衝突 
 • Resolution : 結局結果
 
-5. 鏡頭剪接 
+5. 鏡頭剪接公式 
 • Ai image 
 • Image to Video 
 • Text to Video 
