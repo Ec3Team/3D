@@ -16,7 +16,7 @@
 • 特效設計
 • 動作設計
 
-4. 故事線 
+4. 小說故事線 
 • Set up：故事設定 
 • Catalyst : 觸發 
 • 1st turning point :第一轉折 
